@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: Simplicii's Homeassistent Plugins
+name: Simplicii's Homeassistant Plugins
 url: 'https://github.com/simplicii/hassio'
 maintainer: Simplicii
