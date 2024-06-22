@@ -17,4 +17,4 @@ options:
   message: "Hello Kindle Display..."
 schema:
   message: "str?"
-image: "ghcr.io/home-assistant/{arch}-kindle-display"
+#image: "ghcr.io/home-assistant/{arch}-kindle-display"
